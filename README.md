@@ -6,3 +6,5 @@ SQL Analysis Performed:
 3. Do any consoles seem to specialize in a particular genre?
 4. What titles are popular in one region but flop in another?
 
+Data pulled from Maven analytics
+https://mavenanalytics.io/data-playground?page=2&pageSize=5
