@@ -8,3 +8,5 @@ SQL Analysis Performed:
 
 Data pulled from Maven analytics
 https://mavenanalytics.io/data-playground?page=2&pageSize=5
+(Source: Kaggle, via ASANICZKA)
+(License: ODC-BY)
