@@ -43,7 +43,7 @@ Using the example of console 2600 to evaluate genre distribution.
 
 
 #### 📈 Visualizations:
-Bar Graphs
+Bar Graphs, Line Graphs
 
 #### 👀 Lessons Learned:
 SQL is useful for Querying datasets to find underlying patterns and trends. 
